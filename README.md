@@ -35,9 +35,9 @@ Example:
 
 ### Team Checklist ✅
 - [ ] Team photo
-- [ ] Team Slack channel
-- [ ] Communication established with mentor
-- [ ] Repo creation from this template
+- [O] Team Slack channel
+- [O] Communication established with mentor
+- [] Repo creation from this template
 - [ ] Flight Deck registration
 
 ### Project Checklist 🏁
@@ -45,13 +45,13 @@ Example:
 - [ ] Code merged to main branch
 
 ### School Name 🏫
-The ABC School
+Florida Memorial University
 
 ### Team Name 🏷
-Coding Costars
+Miami Lion's Byte
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
-* Team member X 
-* Team member Y 
-* Team member Z 
+* Tyla Bartlett (Pitch and Design Lead)
+* Omari Bent (Programmer)
+* Maraunda Sanders (Programmer)
+* Amauri Straford (Project Manager, Programmer, Pitch & Design Assitant)
